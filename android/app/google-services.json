@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027789177413",
+    "project_id": "gritt-67a07",
+    "storage_bucket": "gritt-67a07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027789177413:android:0d33e2d022b4eaa3e7592c",
+        "android_client_info": {
+          "package_name": "com.example.gritt_notification_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzT491YRXm5V7wloo54PULD3eX_Eg4Kiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
